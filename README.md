@@ -58,6 +58,16 @@ notations:
 
 #### SAR, HYPERSPECTRAL
 
+-   ART:
+
+    -   [Research advances of SAR remote sensing for agriculture applications: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2095311918620167?via%3Dihub)
+
+    -   [Remote Sensing \| Special Issue : Recent Advances and Contribution of Synthetic Aperture Radar (SAR) Applications for Agricultural Monitoring (mdpi.com)](https://www.mdpi.com/journal/remotesensing/special_issues/SAR-in-agriculture)
+
+    -   [Remote Sensing \| Special Issue : Radar Remote Sensing for Agriculture (mdpi.com)](https://www.mdpi.com/journal/remotesensing/special_issues/RRSA)
+
+    -   [Research advances of SAR remote sensing for agriculture applications: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2095311918620167?via%3Dihub)
+
 -   B:
 
     -   [SAR-Guidebook](https://www.sarmap.ch/pdf/SAR-Guidebook.pdf)
