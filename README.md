@@ -28,13 +28,13 @@ Best content to jump:
 
 ## ML/DL
 
-\~ with satellite imagery; topics related to vegetation and crops)
+\~ with satellite imagery; topics of personal interests (related to vegetation and crops)
 
 -   YT: [Deep Learning for Remote Sensing images with R language](https://youtu.be/N3CHgRlRqOA) [[GitHub - ricds/DL_RS_GEE](https://github.com/ricds/DL_RS_GEE)]
 
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
-## GEE
+## GEE and PC
 
 ### more comprehensive lists/collections
 
