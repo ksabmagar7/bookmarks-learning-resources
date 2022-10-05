@@ -44,6 +44,8 @@ The resources will be updated time to time.
 
 -   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
 
+-   YT: 'playlist' [EDUSAT_IIRS - YouTube](https://www.youtube.com/playlist?list=PLA2ES6Mz6vASelZizNHgLDdUdDUxRL99h) (live webinar from Indian Institute of Remote Sensing)
+
 -   B: [Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)
 
 -   SITE:
@@ -82,7 +84,7 @@ The resources will be updated time to time.
 
     -   [SAR-Guidebook](https://www.sarmap.ch/pdf/SAR-Guidebook.pdf)
 
-    -   [NASA-ISRO SAR (NISAR) Mission Science Users\' Handbook](https://nisar.jpl.nasa.gov/system/documents/files/26_NISAR_FINAL_9-6-19.pdf)
+    -   [NASA-ISRO SAR (NISAR) Mission Science Users' Handbook](https://nisar.jpl.nasa.gov/system/documents/files/26_NISAR_FINAL_9-6-19.pdf)
 
     -   [ASAR-Product-Handbook.pdf (esa.int)](https://earth.esa.int/eogateway/documents/20142/37627/ASAR-Product-Handbook.pdf)
 
@@ -124,6 +126,8 @@ The resources will be updated time to time.
 
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
+-   SITE: [Basics of Neural Networks --- Basics of Neural Networks documentation (mltraining.readthedocs.io)](https://mltraining.readthedocs.io/en/latest/)
+
 ## GEE and PC 🌎
 
 -   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
@@ -135,5 +139,3 @@ The resources will be updated time to time.
 -   [GitHub - robmarkcole/satellite-image-deep-learning: Deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 -   [GitHub - giswqs/Awesome-GEE: A curated list of Google Earth Engine resources](https://github.com/giswqs/Awesome-GEE)
-
-
