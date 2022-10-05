@@ -18,7 +18,7 @@ The resources will be updated time to time.
 
 -   SITE: websites / blogs / links to training page
 
-## R/Python
+## 'R' 🏴‍☠️ 'Python'🐍
 
 -   Github: [D-Lab · GitHub](https://github.com/dlab-berkeley/) (contains different repos.)
 
@@ -40,7 +40,7 @@ The resources will be updated time to time.
 
 -   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
 
-#### Crop Remote Sensing:
+#### Crop Remote Sensing 🌾
 
 -   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
 
@@ -66,7 +66,7 @@ The resources will be updated time to time.
 
     -   [12th ESA Training Course on Earth Observation 2022 - eo science for society](https://eo4society.esa.int/resources/12th-esa-training-eo-2022/)
 
-#### SAR, HYPERSPECTRAL
+#### SAR, HYPERSPECTRAL 🌈
 
 -   ART:
 
@@ -116,7 +116,7 @@ The resources will be updated time to time.
 
     -   [ARSET - Accuracy Assessment of a Land Cover Classification \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-accuracy-assessment-land-cover-classification)
 
-## ML/DL
+## ML/DL 👨‍💻
 
 \~ with satellite imagery; topics of personal interests (related to vegetation and crops)
 
@@ -124,13 +124,13 @@ The resources will be updated time to time.
 
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
-## GEE and PC
+## GEE and PC 🌎
 
 -   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
 
 -   YT 'channel' [GEARS - Geospatial Ecology and Remote Sensing](https://www.youtube.com/channel/UCPZMj2ykE9pgJGV1r0kXQMg/videos?view=0&sort=da)
 
-### more comprehensive lists/collections
+### more comprehensive lists/collections 📚
 
 -   [GitHub - robmarkcole/satellite-image-deep-learning: Deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 
