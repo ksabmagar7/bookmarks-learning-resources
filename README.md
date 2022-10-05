@@ -32,13 +32,35 @@ Best content to jump:
 
 -   SITE:
 
+    -   [ARSET - Creating and Using Normalized Difference Vegetation Index (NDVI) from Satellite Imagery \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-creating-and-using-normalized-difference-vegetation-index-ndvi)
+
+    -   [ARSET - Understanding Phenology with Remote Sensing \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-understanding-phenology-remote-sensing)
+
     -   [ARSET - Satellite Remote Sensing for Agricultural Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-satellite-remote-sensing-agricultural-applications)
 
     -   [ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-agricultural-crop-classification-synthetic-aperture-radar-and)
 
     -   [ARSET - Mapping Crops and their Biophysical Characteristics with Polarimetric SAR and Optical Remote Sensing \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-mapping-crops-and-their-biophysical-characteristics)
 
+    -   [ARSET - Use of Solar Induced Fluorescence and LIDAR to Assess Vegetation Change and Vulnerability \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-use-solar-induced-fluorescence-and-lidar-assess-vegetation)
+
+    -   [ARSET - Applications of Remote Sensing to Soil Moisture and Evapotranspiration \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-applications-remote-sensing-soil-moisture-and)
+
 #### SAR, HYPERSPECTRAL
+
+-   SITE
+
+    -   [ARSET - Hyperspectral Data for Land and Coastal Systems \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-hyperspectral-data-land-and-coastal-systems)
+
+    -   [ARSET - Radar Remote Sensing for Land, Water, & Disaster Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-radar-remote-sensing-land-water-disaster-applications)
+
+#### Related
+
+-   SITE:
+
+    -   [ARSET - Land Cover Classification with Satellite Imagery \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
+
+    -   [ARSET - Investigating Time Series of Satellite Imagery \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/advanced-webinar-investigating-time-series-satellite-imagery)
 
 ## ML/DL
 
