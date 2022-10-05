@@ -44,7 +44,8 @@ The resources will be updated time to time.
 
 -   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
 
--   YT: 'playlist' [EDUSAT_IIRS - YouTube](https://www.youtube.com/playlist?list=PLA2ES6Mz6vASelZizNHgLDdUdDUxRL99h) (live webinar from Indian Institute of Remote Sensing)
+-   YT: 'playlist' [agriculture-remote-sensing - YouTube](https://www.youtube.com/playlist?list=PLA2ES6Mz6vASelZizNHgLDdUdDUxRL99h)
+    (contains live webinar from Indian Institute of Remote Sensing and helpful videos)
 
 -   B: [Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)
 
