@@ -22,6 +22,8 @@ The resources will be updated time to time.
 
 -   Github: [D-Lab · GitHub](https://github.com/dlab-berkeley/) (contains different repos.)
 
+-   YT: 'channel' [Geo-Python - YouTube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/videos)
+
 ## Remote Sensing:
 
 -   B:
@@ -30,7 +32,11 @@ The resources will be updated time to time.
 
     -   [REMOTE SENSING TUTORIAL](https://www.grss-ieee.org/wp-content/uploads/2014/07/EN_TUTORIAL_COMPLETO.pdf) (grss-ieee.org)
 
--   YT: playlist [Remote Sensing and GIS](https://www.youtube.com/playlist?list=PLwdnzlV3ogoUdLSIGNmXpnDLrnEqcNbaI) (course from NPTEL IIT)
+-   YT
+
+    -   'playlist' [Remote Sensing and GIS](https://www.youtube.com/playlist?list=PLwdnzlV3ogoUdLSIGNmXpnDLrnEqcNbaI) (course from NPTEL IIT)
+
+    -   'channel' [RUS Copernicus Training - YouTube](https://www.youtube.com/channel/UCB01WjameYMvL7-XfI8vRIA/videos)
 
 -   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
 
@@ -122,7 +128,7 @@ The resources will be updated time to time.
 
 -   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
 
--   YT:channel [GEARS - Geospatial Ecology and Remote Sensing](https://www.youtube.com/channel/UCPZMj2ykE9pgJGV1r0kXQMg/videos?view=0&sort=da)
+-   YT 'channel' [GEARS - Geospatial Ecology and Remote Sensing](https://www.youtube.com/channel/UCPZMj2ykE9pgJGV1r0kXQMg/videos?view=0&sort=da)
 
 ### more comprehensive lists/collections
 
