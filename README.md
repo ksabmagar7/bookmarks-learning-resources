@@ -16,6 +16,8 @@ notations:
 
 -   B: books
 
+-   SITE: websites/blogs
+
 ## R/Python
 
 -   Github: [D-Lab · GitHub](https://github.com/dlab-berkeley/) (contains different repos.)
@@ -24,7 +26,19 @@ notations:
 
 Best content to jump:
 
--   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)]
+-   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
+
+#### Crop Remote Sensing:
+
+-   SITE:
+
+    -   [ARSET - Satellite Remote Sensing for Agricultural Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-satellite-remote-sensing-agricultural-applications)
+
+    -   [ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-agricultural-crop-classification-synthetic-aperture-radar-and)
+
+    -   [ARSET - Mapping Crops and their Biophysical Characteristics with Polarimetric SAR and Optical Remote Sensing \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-mapping-crops-and-their-biophysical-characteristics)
+
+#### SAR, HYPERSPECTRAL
 
 ## ML/DL
 
@@ -35,6 +49,8 @@ Best content to jump:
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
 ## GEE and PC
+
+-   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
 
 ### more comprehensive lists/collections
 
