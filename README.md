@@ -14,9 +14,9 @@ notations:
 
 -   ART: research articles
 
--   B: books
+-   B: books, PRE: presentation
 
--   SITE: websites/blogs
+-   SITE: websites / blogs / links to training page
 
 ## R/Python
 
@@ -24,11 +24,19 @@ notations:
 
 ## Remote Sensing:
 
-Best content to jump:
+-   B:
+
+    -   [Remote Sensing Tutorials (nrcan.gc.ca)](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
+
+    -   [REMOTE SENSING TUTORIAL](https://www.grss-ieee.org/wp-content/uploads/2014/07/EN_TUTORIAL_COMPLETO.pdf) (grss-ieee.org)
 
 -   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
 
 #### Crop Remote Sensing:
+
+-   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
+
+-   B: [Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)
 
 -   SITE:
 
@@ -46,13 +54,37 @@ Best content to jump:
 
     -   [ARSET - Applications of Remote Sensing to Soil Moisture and Evapotranspiration \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-applications-remote-sensing-soil-moisture-and)
 
+    -   [9th ESA Advanced Training Course on Land Remote Sensing 2019 (focus on Agriculture) - eo science for society](https://eo4society.esa.int/resources/advanced-training-course-on-land-remote-sensing-with-the-focus-on-agriculture/)
+
 #### SAR, HYPERSPECTRAL
+
+-   B:
+
+    -   [SAR-Guidebook](https://www.sarmap.ch/pdf/SAR-Guidebook.pdf)
+
+    -   [NASA-ISRO SAR (NISAR) Mission Science Users\' Handbook](https://nisar.jpl.nasa.gov/system/documents/files/26_NISAR_FINAL_9-6-19.pdf)
+
+    -   [ASAR-Product-Handbook.pdf (esa.int)](https://earth.esa.int/eogateway/documents/20142/37627/ASAR-Product-Handbook.pdf)
+
+    -   [Laymans_SAR_Interpretation_Guide_2.0 (ceos.org)](https://ceos.org/document_management/SEO/DataCube/Laymans_SAR_Interpretation_Guide_2.0.pdf)
+
+-   PRE:
+
+    -   [SAR FOR AGRICULTURE- Research and Development at AAFC](http://jecam.org/wp-content/uploads/2018/10/0920-SAR-Agricultural-Applications-JECAM-2014.pdf)
 
 -   SITE
 
+    -   [6th ESA Advanced Course on Radar Polarimetry 2021 - eo science for society](https://eo4society.esa.int/resources/6th-advanced-polarimetry-2021/)
+
     -   [ARSET - Hyperspectral Data for Land and Coastal Systems \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-hyperspectral-data-land-and-coastal-systems)
 
+    -   [ARSET - Introduction to Synthetic Aperture Radar \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-introduction-synthetic-aperture-radar)
+
     -   [ARSET - Radar Remote Sensing for Land, Water, & Disaster Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-radar-remote-sensing-land-water-disaster-applications)
+
+    -   [ARSET - SAR for Disasters and Hydrological Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-sar-disasters-and-hydrological-applications)
+
+    -   [ARSET - SAR for Landcover Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-sar-landcover-applications)
 
 #### Related
 
@@ -61,6 +93,8 @@ Best content to jump:
     -   [ARSET - Land Cover Classification with Satellite Imagery \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
 
     -   [ARSET - Investigating Time Series of Satellite Imagery \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/advanced-webinar-investigating-time-series-satellite-imagery)
+
+    -   [ARSET - Accuracy Assessment of a Land Cover Classification \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-accuracy-assessment-land-cover-classification)
 
 ## ML/DL
 
