@@ -1,12 +1,12 @@
-# **Learning Resources**
+# **Learning Resources 📖**
 
-**Bookmarks on learning Remote Sensing, R/Python, ML/DL and related topics**
+**📑Bookmarks on learning Remote Sensing, R/Python, ML/DL and related topics**
 
 These are the resources I have gone through (or tried going through) and found very helpful in learning.
 
 The resources will be updated time to time.
 
-notations:
+**notations:**
 
 -   YT: youtube video link
 
@@ -29,6 +29,8 @@ notations:
     -   [Remote Sensing Tutorials (nrcan.gc.ca)](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
 
     -   [REMOTE SENSING TUTORIAL](https://www.grss-ieee.org/wp-content/uploads/2014/07/EN_TUTORIAL_COMPLETO.pdf) (grss-ieee.org)
+
+-   YT: playlist [Remote Sensing and GIS](https://www.youtube.com/playlist?list=PLwdnzlV3ogoUdLSIGNmXpnDLrnEqcNbaI) (course from NPTEL IIT)
 
 -   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
 
@@ -55,6 +57,8 @@ notations:
     -   [ARSET - Applications of Remote Sensing to Soil Moisture and Evapotranspiration \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-applications-remote-sensing-soil-moisture-and)
 
     -   [9th ESA Advanced Training Course on Land Remote Sensing 2019 (focus on Agriculture) - eo science for society](https://eo4society.esa.int/resources/advanced-training-course-on-land-remote-sensing-with-the-focus-on-agriculture/)
+
+    -   [12th ESA Training Course on Earth Observation 2022 - eo science for society](https://eo4society.esa.int/resources/12th-esa-training-eo-2022/)
 
 #### SAR, HYPERSPECTRAL
 
@@ -117,6 +121,8 @@ notations:
 ## GEE and PC
 
 -   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
+
+-   YT:channel [GEARS - Geospatial Ecology and Remote Sensing](https://www.youtube.com/channel/UCPZMj2ykE9pgJGV1r0kXQMg/videos?view=0&sort=da)
 
 ### more comprehensive lists/collections
 
