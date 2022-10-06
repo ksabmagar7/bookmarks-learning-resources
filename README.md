@@ -32,7 +32,7 @@ The resources will be updated time to time.
 
 -   FUN: <https://tidydatatutor.com>, <https://pandastutor.com> (visualizing the code)
 
-## Remote Sensing:
+## Remote Sensing 📡
 
 -   B:
 
