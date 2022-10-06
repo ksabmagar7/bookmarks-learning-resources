@@ -78,6 +78,8 @@ The resources will be updated time to time.
 
 #### SAR, HYPERSPECTRAL 🌈
 
+-   SITE: <https://asf.alaska.edu> (everything in this site)
+
 -   ART:
 
     -   [Research advances of SAR remote sensing for agriculture applications: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2095311918620167?via%3Dihub)
@@ -130,6 +132,8 @@ The resources will be updated time to time.
 
 \~ mostly with satellite imagery and topics of personal interests (preferences towards vegetation and crops)
 
+-   SITE: <https://blogs.fu-berlin.de/reseda/machine-learning-basics/#1> (machine learning basics)
+
 -   B: <https://e-sensing.github.io/sitsbook/> Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series
 
 -   YT: [Deep Learning for Remote Sensing images with R language](https://youtu.be/N3CHgRlRqOA) [[GitHub - ricds/DL_RS_GEE](https://github.com/ricds/DL_RS_GEE)]
@@ -145,6 +149,10 @@ The resources will be updated time to time.
 -   SITE: <https://developers.google.com/machine-learning/foundational-courses>, [advanced-courses](https://developers.google.com/machine-learning/advanced-courses)
 
 ## GEE and PC 🌎
+
+-   SITE: <https://developers.google.com/earth-engine/guides>; <https://developers.google.com/earth-engine/tutorials>
+
+-   SITE: <https://spatialthoughts.com/learning-paths/> (also for python and QGIS)
 
 -   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
 
