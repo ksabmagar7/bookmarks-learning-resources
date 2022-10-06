@@ -146,6 +146,8 @@ The resources will be updated time to time.
 
 -   FUN: [mlu-explain.github.io](https://mlu-explain.github.io) (machine learning blog with interacitivity)
 
+-   FUN: <https://playground.tensorflow.org>
+
 -   SITE: <https://developers.google.com/machine-learning/foundational-courses>, [advanced-courses](https://developers.google.com/machine-learning/advanced-courses)
 
 ## GEE and PC 🌎
