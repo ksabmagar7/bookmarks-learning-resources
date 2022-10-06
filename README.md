@@ -12,17 +12,21 @@ The resources will be updated time to time.
 
 -   Github: Github Repo link
 
--   ART: research articles
+-   ART: research / review articles
 
 -   B: books, PRE: presentation
 
--   SITE: websites / blogs / links to training page
+-   SITE: websites / blogs / links to training page / moocs
+
+-   FUN: interactive websites / online games /
 
 ## 'R' 🏴‍☠️ 'Python'🐍
 
 -   Github: [D-Lab · GitHub](https://github.com/dlab-berkeley/) (contains different repos.)
 
 -   YT: 'channel' [Geo-Python - YouTube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/videos)
+
+-   B: i. <https://rspatial.org/raster/index.html>; ii. <https://r-spatial.org/book/01-hello.html>
 
 ## Remote Sensing:
 
@@ -31,6 +35,10 @@ The resources will be updated time to time.
     -   [Remote Sensing Tutorials (nrcan.gc.ca)](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
 
     -   [REMOTE SENSING TUTORIAL](https://www.grss-ieee.org/wp-content/uploads/2014/07/EN_TUTORIAL_COMPLETO.pdf) (grss-ieee.org)
+
+-   SITE: 'course' [eo-college.org](https://eo-college.org/welcome/)
+
+-   SITE: 'GEOG160' <https://www.e-education.psu.edu/geog160/node/1405>
 
 -   YT
 
@@ -44,8 +52,7 @@ The resources will be updated time to time.
 
 -   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
 
--   YT: 'playlist' [agriculture-remote-sensing - YouTube](https://www.youtube.com/playlist?list=PLA2ES6Mz6vASelZizNHgLDdUdDUxRL99h)
-    (contains live webinar from Indian Institute of Remote Sensing and helpful videos)
+-   YT: 'playlist' [agriculture-remote-sensing - YouTube](https://www.youtube.com/playlist?list=PLA2ES6Mz6vASelZizNHgLDdUdDUxRL99h) (contains live webinar from Indian Institute of Remote Sensing and helpful videos)
 
 -   B: [Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)
 
@@ -121,13 +128,21 @@ The resources will be updated time to time.
 
 ## ML/DL 👨‍💻
 
-\~ with satellite imagery; topics of personal interests (related to vegetation and crops)
+\~ mostly with satellite imagery and topics of personal interests (preferences towards vegetation and crops)
+
+-   B: <https://e-sensing.github.io/sitsbook/> Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series
 
 -   YT: [Deep Learning for Remote Sensing images with R language](https://youtu.be/N3CHgRlRqOA) [[GitHub - ricds/DL_RS_GEE](https://github.com/ricds/DL_RS_GEE)]
 
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
 -   SITE: [Basics of Neural Networks --- Basics of Neural Networks documentation (mltraining.readthedocs.io)](https://mltraining.readthedocs.io/en/latest/)
+
+    ### ml/dl concepts
+
+-   FUN: [mlu-explain.github.io](https://mlu-explain.github.io) (machine learning blog with interacitivity)
+
+-   SITE: <https://developers.google.com/machine-learning/foundational-courses>, [advanced-courses](https://developers.google.com/machine-learning/advanced-courses)
 
 ## GEE and PC 🌎
 
