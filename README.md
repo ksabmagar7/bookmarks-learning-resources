@@ -54,6 +54,12 @@ The resources will be updated time to time.
 
 -   YT: [Introduction to Remote Sensing with Python](https://youtu.be/gi4UdFsayoM) [[GitHub - yohman/workshop-remote-sensing](https://github.com/yohman/workshop-remote-sensing)] - talks with GEE in python
 
+-   YT: 'playlist' for learning remote sensing with drones
+
+    -   [DroneCamp 2022 - YouTube](https://www.youtube.com/playlist?list=PL3a8ETZjFETYqYW9UuwvGyDCHiNsmog4t)
+
+    -   [DroneCamp 2020 - YouTube](https://www.youtube.com/playlist?list=PL3a8ETZjFETZ9FX-JE6OH6JVbsUaGHP1g)
+
 #### Crop Remote Sensing 🌾
 
 -   ART: [Remote Sensing of Cropland Agriculture (core.ac.uk)](https://core.ac.uk/download/pdf/17239737.pdf)
