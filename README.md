@@ -16,7 +16,7 @@ The resources will be updated time to time.
 
 -   B: books, PRE: presentation
 
--   SITE: websites / blogs / links to training page / moocs
+-   SITE: websites / blogs / training page / moocs /
 
 -   FUN: interactive websites / online games / for learning
 
@@ -27,6 +27,8 @@ The resources will be updated time to time.
 -   YT: 'channel' [Geo-Python - YouTube](https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/videos)
 
 -   B: i. <https://rspatial.org/raster/index.html>; ii. <https://r-spatial.org/book/01-hello.html>
+
+-   SITE: <https://www.earthdatascience.org/courses/> (great modules in learning basics)
 
 -   FUN: <https://tidydatatutor.com>, <https://pandastutor.com> (visualizing the code)
 
