@@ -8,7 +8,7 @@ The resources will be updated time to time.
 
 **notations:**
 
--   YT: youtube video link
+-   YT: youtube video link / 'playlist'
 
 -   Github: Github Repo link
 
@@ -18,7 +18,7 @@ The resources will be updated time to time.
 
 -   SITE: websites / blogs / links to training page / moocs
 
--   FUN: interactive websites / online games /
+-   FUN: interactive websites / online games / for learning
 
 ## 'R' 🏴‍☠️ 'Python'🐍
 
@@ -28,6 +28,8 @@ The resources will be updated time to time.
 
 -   B: i. <https://rspatial.org/raster/index.html>; ii. <https://r-spatial.org/book/01-hello.html>
 
+-   FUN: <https://tidydatatutor.com>, <https://pandastutor.com> (visualizing the code)
+
 ## Remote Sensing:
 
 -   B:
@@ -36,7 +38,9 @@ The resources will be updated time to time.
 
     -   [REMOTE SENSING TUTORIAL](https://www.grss-ieee.org/wp-content/uploads/2014/07/EN_TUTORIAL_COMPLETO.pdf) (grss-ieee.org)
 
--   SITE: 'course' [eo-college.org](https://eo-college.org/welcome/)
+    -   <https://landscape.satsummit.io> Satellites in Global Development
+
+-   SITE: 'course' [eo-college.org](https://eo-college.org/welcome/) (all the awesome courses)
 
 -   SITE: 'GEOG160' <https://www.e-education.psu.edu/geog160/node/1405>
 
@@ -78,7 +82,7 @@ The resources will be updated time to time.
 
 #### SAR, HYPERSPECTRAL 🌈
 
--   SITE: <https://asf.alaska.edu> (everything in this site)
+-   SITE: <https://asf.alaska.edu> (everything in this site is for us to master SAR)
 
 -   ART:
 
@@ -146,19 +150,23 @@ The resources will be updated time to time.
 
 -   FUN: [mlu-explain.github.io](https://mlu-explain.github.io) (machine learning blog with interacitivity)
 
--   FUN: <https://playground.tensorflow.org>
+-   FUN: <https://playground.tensorflow.org> (we see the magic there)
 
 -   SITE: <https://developers.google.com/machine-learning/foundational-courses>, [advanced-courses](https://developers.google.com/machine-learning/advanced-courses)
 
 ## GEE and PC 🌎
 
--   SITE: <https://developers.google.com/earth-engine/guides>; <https://developers.google.com/earth-engine/tutorials>
+-   B: [Introductory course to Google Earth Engine](https://www.fao.org/documents/card/en/c/cb9049en): <https://doi.org/10.4060/cb9049en>
+
+-   SITE: <https://developers.google.com/earth-engine/guides>; <https://developers.google.com/earth-engine/tutorials> (the most important and best ones among all)
 
 -   SITE: <https://spatialthoughts.com/learning-paths/> (also for python and QGIS)
 
--   SITE: [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
+-   SITE: 'course' [ARSET - Using Google Earth Engine for Land Monitoring Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
 
 -   YT 'channel' [GEARS - Geospatial Ecology and Remote Sensing](https://www.youtube.com/channel/UCPZMj2ykE9pgJGV1r0kXQMg/videos?view=0&sort=da)
+
+-   SITE: <https://calekochenour.github.io/remote-sensing-textbook/introduction.html>
 
 ### more comprehensive lists/collections 📚
 
