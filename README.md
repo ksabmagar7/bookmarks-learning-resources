@@ -12,7 +12,7 @@ The resources will be updated time to time.
 
 -   Github: Github Repo link
 
--   ART: research / review articles
+-   ART: research / review articles; THE: thesis
 
 -   B: books, PRE: presentation
 
@@ -45,6 +45,8 @@ The resources will be updated time to time.
 -   SITE: 'course' [eo-college.org](https://eo-college.org/welcome/) (all the awesome courses)
 
 -   SITE: 'GEOG160' <https://www.e-education.psu.edu/geog160/node/1405>
+
+-   SITE: <https://step.esa.int/main/doc/tutorials/> (tutorial for SentiNel Application Program or SNAP toolbox)
 
 -   YT
 
@@ -164,7 +166,13 @@ The resources will be updated time to time.
 
 ## GEE and PC 🌎
 
--   B: [Introductory course to Google Earth Engine](https://www.fao.org/documents/card/en/c/cb9049en): <https://doi.org/10.4060/cb9049en>
+-   B:
+
+    -   <https://www.eefabook.org> (the only book we will need to learn GEE)
+
+    -   <https://www.remotesensing.dev/docs/A01-Attribution> (contains 5 LABS - GEE)
+
+    -   [Introductory course to Google Earth Engine](https://www.fao.org/documents/card/en/c/cb9049en): [ <https://doi.org/10.4060/cb9049en> ]
 
 -   SITE: <https://developers.google.com/earth-engine/guides>; <https://developers.google.com/earth-engine/tutorials> (the most important and best ones among all)
 
