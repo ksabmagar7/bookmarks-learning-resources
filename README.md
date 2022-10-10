@@ -2,9 +2,9 @@
 
 **📑Bookmarks on learning Remote Sensing, R/Python, ML/DL and related topics**
 
-These are the resources I have gone through (or tried going through) and found very helpful in learning.
+These are the resources I have gone through (or tried going through) and found very helpful in learning. The main focus is to gather resources of agriculture remote sensing (crops, vegetation, soil), precision agriculture and advanced topics of that domain. Resources free, and easily available will only be listed.
 
-The resources will be updated time to time.
+The resources will be updated time to time as I discover any resources.
 
 **notations:**
 
