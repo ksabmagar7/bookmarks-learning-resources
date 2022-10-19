@@ -132,6 +132,10 @@ The resources will be updated time to time as I discover any resources.
 
     -   [ARSET - SAR for Landcover Applications \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-sar-landcover-applications)
 
+    -   [ARSET - Disaster Assessment Using Synthetic Aperture Radar \| NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/arset-disaster-assessment-using-synthetic-aperture-radar) [2022] \~ demonstration of earth engine
+
+        -   [2020 ARSET Template (nasa.gov)](https://appliedsciences.nasa.gov/sites/default/files/2022-10/SAR_Disasters_Part1.pdf) : more learning resource at the end
+
 #### Related
 
 -   SITE:
