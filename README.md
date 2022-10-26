@@ -188,6 +188,14 @@ The resources will be updated time to time as I discover any resources.
 
 -   SITE: <https://calekochenour.github.io/remote-sensing-textbook/introduction.html>
 
+-   SITE:
+
+    -   <https://ecology.colostate.edu/google-earth-engine/>
+
+    -   <https://ckan.americaview.org/group/video-tutorials>
+
+-   SITE: [Home - 2022 Geo for Good Summit (earthoutreachonair.withgoogle.com)](https://earthoutreachonair.withgoogle.com/events/geoforgood22)
+
 ### more comprehensive lists/collections 📚
 
 -   [GitHub - robmarkcole/satellite-image-deep-learning: Deep learning with satellite & aerial imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
