@@ -2,7 +2,7 @@
 
 **📑Bookmarks on learning Remote Sensing, R/Python, ML/DL and related topics:**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/LANDSAT-9.jpg/2560px-LANDSAT-9.jpg){width="465"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/LANDSAT-9.jpg/2560px-LANDSAT-9.jpg)
 
 These are the resources I have gone through (or tried going through) and found very helpful in learning. The main focus is to gather resources of agriculture remote sensing (crops, vegetation, soil), precision agriculture and advanced topics of that domain. Resources free, and easily available will only be listed.
 
@@ -91,6 +91,8 @@ The resources will be updated time to time as I discover any resources.
     -   [9th ESA Advanced Training Course on Land Remote Sensing 2019 (focus on Agriculture) - eo science for society](https://eo4society.esa.int/resources/advanced-training-course-on-land-remote-sensing-with-the-focus-on-agriculture/)
 
     -   [12th ESA Training Course on Earth Observation 2022 - eo science for society](https://eo4society.esa.int/resources/12th-esa-training-eo-2022/)
+
+-   SITE: DIGITAL AGRICULTURE <https://onfarmresearch.unl.edu/resources>
 
 #### SAR, HYPERSPECTRAL 🌈
 
