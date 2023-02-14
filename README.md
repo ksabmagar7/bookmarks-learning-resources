@@ -34,6 +34,8 @@ The resources will be updated time to time as I discover any resources.
 
 -   FUN: <https://tidydatatutor.com>, <https://pandastutor.com> (visualizing the code)
 
+-   SITE/TUTORIAL: <https://ourcodingclub.github.io/tutorials.html> [ online weekly workshops in R and related areas ]
+
 ## Remote Sensing 📡
 
 -   B:
