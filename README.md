@@ -96,6 +96,8 @@ The resources will be updated time to time as I discover any resources.
 
 #### SAR, HYPERSPECTRAL 🌈
 
+-   FUN: [GUIDE: FUNDAMENTALS OF SYNTHETIC APERTURE RADAR (SAR)](https://storymaps.arcgis.com/stories/20d8cd2ce11a4d5d81a8a65711d5ec29)
+
 -   SITE: <https://asf.alaska.edu> (everything in this site is for us to master SAR)
 
 -   SITE: <https://learnsar.open.uaf.edu/sar-resources/> (links to resources)
