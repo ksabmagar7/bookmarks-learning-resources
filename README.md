@@ -94,6 +94,8 @@ The resources will be updated time to time as I discover any resources.
 
     -   [12th ESA Training Course on Earth Observation 2022 - eo science for society](https://eo4society.esa.int/resources/12th-esa-training-eo-2022/)
 
+    -   [ARSET - Crop Mapping using Synthetic Aperture Radar (SAR) and Optical Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0) (April 4, 2023 - April 11, 2023)
+
 -   SITE: DIGITAL AGRICULTURE <https://onfarmresearch.unl.edu/resources>
 
 -   SITE: [FAO Webinar Series: Earth observation data for agricultural statistics](https://www.fao.org/statistics/events/detail-events/en/c/1631683/?utm_source=substack&utm_medium=email) (8 March to 10 May 2023)
