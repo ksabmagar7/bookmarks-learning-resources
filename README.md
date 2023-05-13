@@ -10,7 +10,7 @@ The resources will be updated time to time as I discover any resources.
 
 **notations:**
 
--   YT: youtube video link / 'playlist'
+-   YT: YouTube video link / 'playlist'
 
 -   Github: Github Repo link
 
@@ -96,6 +96,8 @@ The resources will be updated time to time as I discover any resources.
 
 -   SITE: DIGITAL AGRICULTURE <https://onfarmresearch.unl.edu/resources>
 
+-   SITE: [FAO Webinar Series: Earth observation data for agricultural statistics](https://www.fao.org/statistics/events/detail-events/en/c/1631683/?utm_source=substack&utm_medium=email) (8 March to 10 May 2023)
+
 #### SAR, HYPERSPECTRAL 🌈
 
 -   FUN: [GUIDE: FUNDAMENTALS OF SYNTHETIC APERTURE RADAR (SAR)](https://storymaps.arcgis.com/stories/20d8cd2ce11a4d5d81a8a65711d5ec29)
@@ -169,6 +171,8 @@ The resources will be updated time to time as I discover any resources.
 -   YT: [Christian Knoth - Introduction to Deep Learning in R for analysis of UAV-based remote sensing data](https://youtu.be/3wPgRS0XYjA) [[GitHub - DaChro/ogh_summer_school_2020"](https://github.com/DaChro/ogh_summer_school_2020)]
 
 -   SITE: [Basics of Neural Networks --- Basics of Neural Networks documentation (mltraining.readthedocs.io)](https://mltraining.readthedocs.io/en/latest/)
+
+-   SITE: [ARSET - Fundamentals of Machine Learning for Earth Science](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-machine-learning-earth-science)
 
     ### ml/dl concepts
 
